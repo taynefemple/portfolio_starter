@@ -1,89 +1,41 @@
-# Unit 1: Online Portfolio README
+Unit 1 Lesson 2
+=================
 
-## Overview
+### Guided Practice
 
-In this unit, coders will review HTML and CSS concepts from the Introduction to Web Development course and build a multi-page professional Portfolio.
+#### HTML
 
-## Day 1
+[ ] Add your favorite motto in a header tag
 
-### Set up
+[ ] Add a fun image
 
-[ ] Complete the Project Planning Document.
+#### CSS
 
-[ ] Go to the repository.
+[ ] Change the font color and background color to your favorite colors
 
-[ ] Fork this repository to your GitHub account.
-
-[ ] Create a new project on Glitch that imports your repo from GitHub.
-
-[ ] Submit your GitHub repo link and Glitch Project Page links on the Agenda.
-
-### HTML
-
-[ ] Add a header with your name to your Portfolio homepage.
-
-[ ] Update the title tag of both of your pages.
-
-[ ] Create your navigation bar that will link all your pages together.
-
-[ ] Give your HTML elements class names.
-
-[ ] Write your biography on your About Me page.
-
-### CSS
-
-[ ] Choose 2-4 colors for your theme and add them as font or background colors.
-
-[ ] Add flexbox to your navigation bar.
-
-[ ] Add at least 1 Google Font.
-
-## Day 2
-
-### Set Up
-
-[ ] Link your homepage and About Me pages together using your nav bar.
-
-[ ] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
-
-[ ] Upload at least 2 images so they are hosted in your Portfolio.
-
-[ ] Update the title tags of all your new HTML files.
-
-[ ] Make sure your CSS file is linked to all your HTML files.
-
-### HTML
-
-[ ] Add a professional-looking photo of yourself or something relevant to your homepage.
-
-In your Projects page, create a display of at least 4 of your old coding projects that includes:
-
-    [ ] Project name
-    [ ] Link to project GitHub repo
-    [ ] Link to project live site
-    [ ] Short description of project including coding languages used
-    [ ] Hosted screenshot of project
-
-Add your contact information to your Contact page, including your:
-
-    [ ] GitHub account
-    [ ] Email address
-    [ ] LinkedIn
-    [ ] Resume
-
-### CSS
-
-[ ] Format the sizes of all your pictures
+[ ] Adjust the size of the image
 
 
-### Extensions
+### Independent Practice
 
-[ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
+#### HTML
 
-[ ] Add a unordered or ordered list of your accomplishments or favorite things to your About Me page.
+[ ] Add our FLW values in a list (Our values are: Be Inclusive, Take Positive Risks, and Learn as Much as You Can)
 
-[ ] Make sure all your external links open up into new tabs.
+[ ] Give the two divs different class names
 
-[ ] Create a link that pops open the email browser with your email address in the to: field.
+#### CSS
 
-[ ] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
+[ ] Use flexbox to format the nav bar
+
+[ ] Add a Google Font of your choice
+
+[ ] Use box model to style the image
+
+### If you finish early...
+
+[ ] Add a link to the page that opens in a new tab
+
+[ ] Change your colors to hex color codes
+
+[ ] Add more class names to your HTML elements and give them all different styling

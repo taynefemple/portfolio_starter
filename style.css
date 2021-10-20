@@ -1,5 +1,12 @@
 /* CSS files add styling rules to your content */
+body {
+  font-family: 'Bebas Neue', cursive;
+}
 
 h1 {
-  color: green;
+  color: black;
+}
+
+h2 {
+  color: darkgreen;
 }
